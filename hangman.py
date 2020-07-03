@@ -41,7 +41,7 @@ def play():
             print('\nInvalid input! Try again!')
 
 
-    if lives_left ==0:
+    if lives_left == 0:
         print('\nGame Over! You do not have any lives left!')
     else:
         print(f'\nYou have found the word!! Good job! The word is \"{word}')

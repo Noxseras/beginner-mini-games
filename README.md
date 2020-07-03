@@ -5,3 +5,4 @@ List of mini-games:
 1) Dice-roll 
 2) Hangman
 3 Rock-Paper-Scissors
+4)Number-guessing
